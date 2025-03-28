@@ -12,16 +12,6 @@
       "filterable": 0
     },
     {
-      "key": "csp_LocalFile",
-      "name": "本地",
-      "type": 3,
-      "api": "csp_LocalFile",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "type_flag": 0
-    },
-    {
       "key": "YGP",
       "name": "新片",
       "type": 3,
