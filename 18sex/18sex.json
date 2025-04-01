@@ -4779,7 +4779,7 @@
       ]
     }
   ],
-  "spider": "./1009_.jar",
+  "spider": "https://gitee.com/jueson/box/raw/main/xiayiespider.jar",
   "wallpaper": "http://api.btstu.cn/sjbz/?lx=meizi",
   "ads": [
     "mimg.0c1q0l.cn",
