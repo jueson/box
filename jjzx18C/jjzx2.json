@@ -11,6 +11,13 @@
   ],
   "sites": [
     {
+      "key": "Douban",
+      "name": "豆瓣",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0
+    },
+    {
       "key": "csp_XYBQ",
       "name": "🔞比卡|比卡",
       "type": 3,
