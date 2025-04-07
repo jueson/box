@@ -488,7 +488,7 @@
   ],
   "lives": [
     {
-      "name": "live",
+      "name": "Pan",
       "type": 0,
       "url": "http://8.138.7.223/live.txt",
       "playerType": 1,
@@ -497,7 +497,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "ipv6",
+      "name": "Piz",
       "type": 0,
       "url": "https://ghproxy.net/raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
       "playerType": 1,
